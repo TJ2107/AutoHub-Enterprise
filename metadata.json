@@ -1,0 +1,6 @@
+{
+  "name": "AutoHub Enterprise",
+  "description": "Plateforme intelligente de gestion automobile, maintenance et services aux entreprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
